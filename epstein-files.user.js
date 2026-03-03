@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0.0
 // @description  Declassified. 90% of all text redacted per executive order 13526.
-// @author       The Department of Redaction
+// @author       The Department of Redaction (RichardXSC on GitHub)
 // @match        *://*/*
 // @grant        none
 // @run-at       document-idle
